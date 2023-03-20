@@ -1,6 +1,6 @@
 # Recommendation System 3639 Final Project
 Final Project Paper Report in Recommendation System 3639 (Reichman University)
-by Loten Noy and Gil-Ad Katz
+by Loten Noy and Gil-ad Katz
 
 <figure>
 <img src="resources/youtube_general.png" alt="" style="width:100%">
